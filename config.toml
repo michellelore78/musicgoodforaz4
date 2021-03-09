@@ -1,0 +1,4 @@
+baseURL = "https://freemusica-bubasaw.vercel.app"
+languageCode = "en-us"
+title = "Free Sheet Music USA"
+theme = "hugo-theme-minos"
